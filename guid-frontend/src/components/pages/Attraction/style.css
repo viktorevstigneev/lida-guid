@@ -1,0 +1,13 @@
+.attraction__card{
+    /* width: 100%; */
+    padding: 40px;
+}
+
+.attraction{
+    /* width: 70%; */
+    margin: 0 auto;
+    margin-top: 100px;
+    display: flex;
+    flex-wrap: wrap;
+    vertical-align: baseline;
+}

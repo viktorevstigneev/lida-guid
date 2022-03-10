@@ -1,0 +1,25 @@
+.side {
+	width: 200px;
+	height: 100%;
+	position: fixed;
+	left: 0;
+    background: rgba(0, 0, 0, 0.692);
+}
+
+.side__content {
+	margin-top: 50%;
+}
+
+.side__button {
+    border: 1px solid white;
+    color: white;
+    cursor: pointer;
+    margin-top: 10px;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.side__button:hover {
+	background: rgb(255, 255, 255);
+    color: black;
+}
